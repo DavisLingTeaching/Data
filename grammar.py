@@ -205,7 +205,7 @@ class Grammar:
             write_or_append = 'w' if original_num_templates == num_templates else 'a'
             with open(evalfile, write_or_append) as outfile:
                 if write_or_append == 'w':
-                    outfile.write('pairs\torder\tsent\n')
+                    outfile.write('exp\tpairs\torder\tsent\n')
                     count = 0
                 for idx, eval_tuple in enumerate(eval_tuples):
                     order = ''
@@ -213,7 +213,7 @@ class Grammar:
                         order = 'x'
                     else:
                         order = 'y'
-                    outfile.write(str(count)+'\t'+str(order)+'\t'+eval_tuple[0]+'\n')
+                    outfile.write(evalfile.split('.')[0].split('/')[-1]+'\t'+str(count)+'\t'+str(order)+'\t'+eval_tuple[0]+'\n')
                     if idx%2 == 1:
                         count += 1
 
