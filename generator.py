@@ -24,4 +24,5 @@ for filename in os.listdir(args.grammars):
     grammar.read(os.path.join(args.grammars,filename))
     if not os.path.isdir(args.grammars+'_evalset'):
         os.mkdir(args.grammars+'_evalset')
-    grammar.sen_generate(os.path.join(args.grammars+'_evalset', os.path.basename(filename).split(".")[0]+".txt"))
+    grammar.sen_generate(os.path.join(args.grammars+'_evalset',
+                                      os.path.basename(filename).split(".")[0]+".tsv"))
