@@ -207,13 +207,16 @@ class Grammar:
                 if write_or_append == 'w':
                     outfile.write('exp\tpairs\torder\tsent\n')
                     count = 0
+                    name = evalfile.split('.')[0].split('/')[-1]
+                    if name == '':
+                        name = 'na'
                 for idx, eval_tuple in enumerate(eval_tuples):
                     order = ''
                     if eval_tuple[1]:
                         order = 'x'
                     else:
                         order = 'y'
-                    outfile.write(evalfile.split('.')[0].split('/')[-1]+'\t'+str(count)+'\t'+str(order)+'\t'+eval_tuple[0]+'\n')
+                    outfile.write(name+'\t'+str(count)+'\t'+str(order)+'\t'+eval_tuple[0]+'\n')
                     if idx%2 == 1:
                         count += 1
 
