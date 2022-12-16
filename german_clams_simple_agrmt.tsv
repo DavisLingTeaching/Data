@@ -1,281 +1,281 @@
-pairs	order	sent
-0	x	die Schriftsteller sind alt
-0	y	die Schriftsteller ist alt
-1	x	die Schriftsteller sind jung
-1	y	die Schriftsteller ist jung
-2	x	die Schriftsteller sind klein
-2	y	die Schriftsteller ist klein
-3	x	die Schriftsteller sind groß
-3	y	die Schriftsteller ist groß
-4	x	die Schriftsteller schwimmen
-4	y	die Schriftsteller schwimmt
-5	x	die Schriftsteller sprechen
-5	y	die Schriftsteller spricht
-6	x	die Schriftsteller lachen
-6	y	die Schriftsteller lacht
-7	x	die Direktoren sind alt
-7	y	die Direktoren ist alt
-8	x	die Direktoren sind jung
-8	y	die Direktoren ist jung
-9	x	die Direktoren sind klein
-9	y	die Direktoren ist klein
-10	x	die Direktoren sind groß
-10	y	die Direktoren ist groß
-11	x	die Direktoren schwimmen
-11	y	die Direktoren schwimmt
-12	x	die Direktoren sprechen
-12	y	die Direktoren spricht
-13	x	die Direktoren lachen
-13	y	die Direktoren lacht
-14	x	die Bauern sind alt
-14	y	die Bauern ist alt
-15	x	die Bauern sind jung
-15	y	die Bauern ist jung
-16	x	die Bauern sind klein
-16	y	die Bauern ist klein
-17	x	die Bauern sind groß
-17	y	die Bauern ist groß
-18	x	die Bauern schwimmen
-18	y	die Bauern schwimmt
-19	x	die Bauern sprechen
-19	y	die Bauern spricht
-20	x	die Bauern lachen
-20	y	die Bauern lacht
-21	x	die Chirurgen sind alt
-21	y	die Chirurgen ist alt
-22	x	die Chirurgen sind jung
-22	y	die Chirurgen ist jung
-23	x	die Chirurgen sind klein
-23	y	die Chirurgen ist klein
-24	x	die Chirurgen sind groß
-24	y	die Chirurgen ist groß
-25	x	die Chirurgen schwimmen
-25	y	die Chirurgen schwimmt
-26	x	die Chirurgen sprechen
-26	y	die Chirurgen spricht
-27	x	die Chirurgen lachen
-27	y	die Chirurgen lacht
-28	x	die Senatoren sind alt
-28	y	die Senatoren ist alt
-29	x	die Senatoren sind jung
-29	y	die Senatoren ist jung
-30	x	die Senatoren sind klein
-30	y	die Senatoren ist klein
-31	x	die Senatoren sind groß
-31	y	die Senatoren ist groß
-32	x	die Senatoren schwimmen
-32	y	die Senatoren schwimmt
-33	x	die Senatoren sprechen
-33	y	die Senatoren spricht
-34	x	die Senatoren lachen
-34	y	die Senatoren lacht
-35	x	die Lehrer sind alt
-35	y	die Lehrer ist alt
-36	x	die Lehrer sind jung
-36	y	die Lehrer ist jung
-37	x	die Lehrer sind klein
-37	y	die Lehrer ist klein
-38	x	die Lehrer sind groß
-38	y	die Lehrer ist groß
-39	x	die Lehrer schwimmen
-39	y	die Lehrer schwimmt
-40	x	die Lehrer sprechen
-40	y	die Lehrer spricht
-41	x	die Lehrer lachen
-41	y	die Lehrer lacht
-42	x	die Kunden sind alt
-42	y	die Kunden ist alt
-43	x	die Kunden sind jung
-43	y	die Kunden ist jung
-44	x	die Kunden sind klein
-44	y	die Kunden ist klein
-45	x	die Kunden sind groß
-45	y	die Kunden ist groß
-46	x	die Kunden schwimmen
-46	y	die Kunden schwimmt
-47	x	die Kunden sprechen
-47	y	die Kunden spricht
-48	x	die Kunden lachen
-48	y	die Kunden lacht
-49	x	die Polizisten sind alt
-49	y	die Polizisten ist alt
-50	x	die Polizisten sind jung
-50	y	die Polizisten ist jung
-51	x	die Polizisten sind klein
-51	y	die Polizisten ist klein
-52	x	die Polizisten sind groß
-52	y	die Polizisten ist groß
-53	x	die Polizisten schwimmen
-53	y	die Polizisten schwimmt
-54	x	die Polizisten sprechen
-54	y	die Polizisten spricht
-55	x	die Polizisten lachen
-55	y	die Polizisten lacht
-56	x	die Piloten sind alt
-56	y	die Piloten ist alt
-57	x	die Piloten sind jung
-57	y	die Piloten ist jung
-58	x	die Piloten sind klein
-58	y	die Piloten ist klein
-59	x	die Piloten sind groß
-59	y	die Piloten ist groß
-60	x	die Piloten schwimmen
-60	y	die Piloten schwimmt
-61	x	die Piloten sprechen
-61	y	die Piloten spricht
-62	x	die Piloten lachen
-62	y	die Piloten lacht
-63	x	die Berater sind alt
-63	y	die Berater ist alt
-64	x	die Berater sind jung
-64	y	die Berater ist jung
-65	x	die Berater sind klein
-65	y	die Berater ist klein
-66	x	die Berater sind groß
-66	y	die Berater ist groß
-67	x	die Berater schwimmen
-67	y	die Berater schwimmt
-68	x	die Berater sprechen
-68	y	die Berater spricht
-69	x	die Berater lachen
-69	y	die Berater lacht
-70	x	der Schriftsteller ist alt
-70	y	der Schriftsteller sind alt
-71	x	der Schriftsteller ist jung
-71	y	der Schriftsteller sind jung
-72	x	der Schriftsteller ist klein
-72	y	der Schriftsteller sind klein
-73	x	der Schriftsteller ist groß
-73	y	der Schriftsteller sind groß
-74	x	der Schriftsteller schwimmt
-74	y	der Schriftsteller schwimmen
-75	x	der Schriftsteller spricht
-75	y	der Schriftsteller sprechen
-76	x	der Schriftsteller lacht
-76	y	der Schriftsteller lachen
-77	x	der Direktor ist alt
-77	y	der Direktor sind alt
-78	x	der Direktor ist jung
-78	y	der Direktor sind jung
-79	x	der Direktor ist klein
-79	y	der Direktor sind klein
-80	x	der Direktor ist groß
-80	y	der Direktor sind groß
-81	x	der Direktor schwimmt
-81	y	der Direktor schwimmen
-82	x	der Direktor spricht
-82	y	der Direktor sprechen
-83	x	der Direktor lacht
-83	y	der Direktor lachen
-84	x	der Bauer ist alt
-84	y	der Bauer sind alt
-85	x	der Bauer ist jung
-85	y	der Bauer sind jung
-86	x	der Bauer ist klein
-86	y	der Bauer sind klein
-87	x	der Bauer ist groß
-87	y	der Bauer sind groß
-88	x	der Bauer schwimmt
-88	y	der Bauer schwimmen
-89	x	der Bauer spricht
-89	y	der Bauer sprechen
-90	x	der Bauer lacht
-90	y	der Bauer lachen
-91	x	der Chirurg ist alt
-91	y	der Chirurg sind alt
-92	x	der Chirurg ist jung
-92	y	der Chirurg sind jung
-93	x	der Chirurg ist klein
-93	y	der Chirurg sind klein
-94	x	der Chirurg ist groß
-94	y	der Chirurg sind groß
-95	x	der Chirurg schwimmt
-95	y	der Chirurg schwimmen
-96	x	der Chirurg spricht
-96	y	der Chirurg sprechen
-97	x	der Chirurg lacht
-97	y	der Chirurg lachen
-98	x	der Senator ist alt
-98	y	der Senator sind alt
-99	x	der Senator ist jung
-99	y	der Senator sind jung
-100	x	der Senator ist klein
-100	y	der Senator sind klein
-101	x	der Senator ist groß
-101	y	der Senator sind groß
-102	x	der Senator schwimmt
-102	y	der Senator schwimmen
-103	x	der Senator spricht
-103	y	der Senator sprechen
-104	x	der Senator lacht
-104	y	der Senator lachen
-105	x	der Lehrer ist alt
-105	y	der Lehrer sind alt
-106	x	der Lehrer ist jung
-106	y	der Lehrer sind jung
-107	x	der Lehrer ist klein
-107	y	der Lehrer sind klein
-108	x	der Lehrer ist groß
-108	y	der Lehrer sind groß
-109	x	der Lehrer schwimmt
-109	y	der Lehrer schwimmen
-110	x	der Lehrer spricht
-110	y	der Lehrer sprechen
-111	x	der Lehrer lacht
-111	y	der Lehrer lachen
-112	x	der Kunde ist alt
-112	y	der Kunde sind alt
-113	x	der Kunde ist jung
-113	y	der Kunde sind jung
-114	x	der Kunde ist klein
-114	y	der Kunde sind klein
-115	x	der Kunde ist groß
-115	y	der Kunde sind groß
-116	x	der Kunde schwimmt
-116	y	der Kunde schwimmen
-117	x	der Kunde spricht
-117	y	der Kunde sprechen
-118	x	der Kunde lacht
-118	y	der Kunde lachen
-119	x	der Polizist ist alt
-119	y	der Polizist sind alt
-120	x	der Polizist ist jung
-120	y	der Polizist sind jung
-121	x	der Polizist ist klein
-121	y	der Polizist sind klein
-122	x	der Polizist ist groß
-122	y	der Polizist sind groß
-123	x	der Polizist schwimmt
-123	y	der Polizist schwimmen
-124	x	der Polizist spricht
-124	y	der Polizist sprechen
-125	x	der Polizist lacht
-125	y	der Polizist lachen
-126	x	der Pilot ist alt
-126	y	der Pilot sind alt
-127	x	der Pilot ist jung
-127	y	der Pilot sind jung
-128	x	der Pilot ist klein
-128	y	der Pilot sind klein
-129	x	der Pilot ist groß
-129	y	der Pilot sind groß
-130	x	der Pilot schwimmt
-130	y	der Pilot schwimmen
-131	x	der Pilot spricht
-131	y	der Pilot sprechen
-132	x	der Pilot lacht
-132	y	der Pilot lachen
-133	x	der Berater ist alt
-133	y	der Berater sind alt
-134	x	der Berater ist jung
-134	y	der Berater sind jung
-135	x	der Berater ist klein
-135	y	der Berater sind klein
-136	x	der Berater ist groß
-136	y	der Berater sind groß
-137	x	der Berater schwimmt
-137	y	der Berater schwimmen
-138	x	der Berater spricht
-138	y	der Berater sprechen
-139	x	der Berater lacht
-139	y	der Berater lachen
+pairs	order	sent	exp
+0	x	die Schriftsteller sind alt	simple_agrmt
+0	y	die Schriftsteller ist alt	simple_agrmt
+1	x	die Schriftsteller sind jung	simple_agrmt
+1	y	die Schriftsteller ist jung	simple_agrmt
+2	x	die Schriftsteller sind klein	simple_agrmt
+2	y	die Schriftsteller ist klein	simple_agrmt
+3	x	die Schriftsteller sind groß	simple_agrmt
+3	y	die Schriftsteller ist groß	simple_agrmt
+4	x	die Schriftsteller schwimmen	simple_agrmt
+4	y	die Schriftsteller schwimmt	simple_agrmt
+5	x	die Schriftsteller sprechen	simple_agrmt
+5	y	die Schriftsteller spricht	simple_agrmt
+6	x	die Schriftsteller lachen	simple_agrmt
+6	y	die Schriftsteller lacht	simple_agrmt
+7	x	die Direktoren sind alt	simple_agrmt
+7	y	die Direktoren ist alt	simple_agrmt
+8	x	die Direktoren sind jung	simple_agrmt
+8	y	die Direktoren ist jung	simple_agrmt
+9	x	die Direktoren sind klein	simple_agrmt
+9	y	die Direktoren ist klein	simple_agrmt
+10	x	die Direktoren sind groß	simple_agrmt
+10	y	die Direktoren ist groß	simple_agrmt
+11	x	die Direktoren schwimmen	simple_agrmt
+11	y	die Direktoren schwimmt	simple_agrmt
+12	x	die Direktoren sprechen	simple_agrmt
+12	y	die Direktoren spricht	simple_agrmt
+13	x	die Direktoren lachen	simple_agrmt
+13	y	die Direktoren lacht	simple_agrmt
+14	x	die Bauern sind alt	simple_agrmt
+14	y	die Bauern ist alt	simple_agrmt
+15	x	die Bauern sind jung	simple_agrmt
+15	y	die Bauern ist jung	simple_agrmt
+16	x	die Bauern sind klein	simple_agrmt
+16	y	die Bauern ist klein	simple_agrmt
+17	x	die Bauern sind groß	simple_agrmt
+17	y	die Bauern ist groß	simple_agrmt
+18	x	die Bauern schwimmen	simple_agrmt
+18	y	die Bauern schwimmt	simple_agrmt
+19	x	die Bauern sprechen	simple_agrmt
+19	y	die Bauern spricht	simple_agrmt
+20	x	die Bauern lachen	simple_agrmt
+20	y	die Bauern lacht	simple_agrmt
+21	x	die Chirurgen sind alt	simple_agrmt
+21	y	die Chirurgen ist alt	simple_agrmt
+22	x	die Chirurgen sind jung	simple_agrmt
+22	y	die Chirurgen ist jung	simple_agrmt
+23	x	die Chirurgen sind klein	simple_agrmt
+23	y	die Chirurgen ist klein	simple_agrmt
+24	x	die Chirurgen sind groß	simple_agrmt
+24	y	die Chirurgen ist groß	simple_agrmt
+25	x	die Chirurgen schwimmen	simple_agrmt
+25	y	die Chirurgen schwimmt	simple_agrmt
+26	x	die Chirurgen sprechen	simple_agrmt
+26	y	die Chirurgen spricht	simple_agrmt
+27	x	die Chirurgen lachen	simple_agrmt
+27	y	die Chirurgen lacht	simple_agrmt
+28	x	die Senatoren sind alt	simple_agrmt
+28	y	die Senatoren ist alt	simple_agrmt
+29	x	die Senatoren sind jung	simple_agrmt
+29	y	die Senatoren ist jung	simple_agrmt
+30	x	die Senatoren sind klein	simple_agrmt
+30	y	die Senatoren ist klein	simple_agrmt
+31	x	die Senatoren sind groß	simple_agrmt
+31	y	die Senatoren ist groß	simple_agrmt
+32	x	die Senatoren schwimmen	simple_agrmt
+32	y	die Senatoren schwimmt	simple_agrmt
+33	x	die Senatoren sprechen	simple_agrmt
+33	y	die Senatoren spricht	simple_agrmt
+34	x	die Senatoren lachen	simple_agrmt
+34	y	die Senatoren lacht	simple_agrmt
+35	x	die Lehrer sind alt	simple_agrmt
+35	y	die Lehrer ist alt	simple_agrmt
+36	x	die Lehrer sind jung	simple_agrmt
+36	y	die Lehrer ist jung	simple_agrmt
+37	x	die Lehrer sind klein	simple_agrmt
+37	y	die Lehrer ist klein	simple_agrmt
+38	x	die Lehrer sind groß	simple_agrmt
+38	y	die Lehrer ist groß	simple_agrmt
+39	x	die Lehrer schwimmen	simple_agrmt
+39	y	die Lehrer schwimmt	simple_agrmt
+40	x	die Lehrer sprechen	simple_agrmt
+40	y	die Lehrer spricht	simple_agrmt
+41	x	die Lehrer lachen	simple_agrmt
+41	y	die Lehrer lacht	simple_agrmt
+42	x	die Kunden sind alt	simple_agrmt
+42	y	die Kunden ist alt	simple_agrmt
+43	x	die Kunden sind jung	simple_agrmt
+43	y	die Kunden ist jung	simple_agrmt
+44	x	die Kunden sind klein	simple_agrmt
+44	y	die Kunden ist klein	simple_agrmt
+45	x	die Kunden sind groß	simple_agrmt
+45	y	die Kunden ist groß	simple_agrmt
+46	x	die Kunden schwimmen	simple_agrmt
+46	y	die Kunden schwimmt	simple_agrmt
+47	x	die Kunden sprechen	simple_agrmt
+47	y	die Kunden spricht	simple_agrmt
+48	x	die Kunden lachen	simple_agrmt
+48	y	die Kunden lacht	simple_agrmt
+49	x	die Polizisten sind alt	simple_agrmt
+49	y	die Polizisten ist alt	simple_agrmt
+50	x	die Polizisten sind jung	simple_agrmt
+50	y	die Polizisten ist jung	simple_agrmt
+51	x	die Polizisten sind klein	simple_agrmt
+51	y	die Polizisten ist klein	simple_agrmt
+52	x	die Polizisten sind groß	simple_agrmt
+52	y	die Polizisten ist groß	simple_agrmt
+53	x	die Polizisten schwimmen	simple_agrmt
+53	y	die Polizisten schwimmt	simple_agrmt
+54	x	die Polizisten sprechen	simple_agrmt
+54	y	die Polizisten spricht	simple_agrmt
+55	x	die Polizisten lachen	simple_agrmt
+55	y	die Polizisten lacht	simple_agrmt
+56	x	die Piloten sind alt	simple_agrmt
+56	y	die Piloten ist alt	simple_agrmt
+57	x	die Piloten sind jung	simple_agrmt
+57	y	die Piloten ist jung	simple_agrmt
+58	x	die Piloten sind klein	simple_agrmt
+58	y	die Piloten ist klein	simple_agrmt
+59	x	die Piloten sind groß	simple_agrmt
+59	y	die Piloten ist groß	simple_agrmt
+60	x	die Piloten schwimmen	simple_agrmt
+60	y	die Piloten schwimmt	simple_agrmt
+61	x	die Piloten sprechen	simple_agrmt
+61	y	die Piloten spricht	simple_agrmt
+62	x	die Piloten lachen	simple_agrmt
+62	y	die Piloten lacht	simple_agrmt
+63	x	die Berater sind alt	simple_agrmt
+63	y	die Berater ist alt	simple_agrmt
+64	x	die Berater sind jung	simple_agrmt
+64	y	die Berater ist jung	simple_agrmt
+65	x	die Berater sind klein	simple_agrmt
+65	y	die Berater ist klein	simple_agrmt
+66	x	die Berater sind groß	simple_agrmt
+66	y	die Berater ist groß	simple_agrmt
+67	x	die Berater schwimmen	simple_agrmt
+67	y	die Berater schwimmt	simple_agrmt
+68	x	die Berater sprechen	simple_agrmt
+68	y	die Berater spricht	simple_agrmt
+69	x	die Berater lachen	simple_agrmt
+69	y	die Berater lacht	simple_agrmt
+70	x	der Schriftsteller ist alt	simple_agrmt
+70	y	der Schriftsteller sind alt	simple_agrmt
+71	x	der Schriftsteller ist jung	simple_agrmt
+71	y	der Schriftsteller sind jung	simple_agrmt
+72	x	der Schriftsteller ist klein	simple_agrmt
+72	y	der Schriftsteller sind klein	simple_agrmt
+73	x	der Schriftsteller ist groß	simple_agrmt
+73	y	der Schriftsteller sind groß	simple_agrmt
+74	x	der Schriftsteller schwimmt	simple_agrmt
+74	y	der Schriftsteller schwimmen	simple_agrmt
+75	x	der Schriftsteller spricht	simple_agrmt
+75	y	der Schriftsteller sprechen	simple_agrmt
+76	x	der Schriftsteller lacht	simple_agrmt
+76	y	der Schriftsteller lachen	simple_agrmt
+77	x	der Direktor ist alt	simple_agrmt
+77	y	der Direktor sind alt	simple_agrmt
+78	x	der Direktor ist jung	simple_agrmt
+78	y	der Direktor sind jung	simple_agrmt
+79	x	der Direktor ist klein	simple_agrmt
+79	y	der Direktor sind klein	simple_agrmt
+80	x	der Direktor ist groß	simple_agrmt
+80	y	der Direktor sind groß	simple_agrmt
+81	x	der Direktor schwimmt	simple_agrmt
+81	y	der Direktor schwimmen	simple_agrmt
+82	x	der Direktor spricht	simple_agrmt
+82	y	der Direktor sprechen	simple_agrmt
+83	x	der Direktor lacht	simple_agrmt
+83	y	der Direktor lachen	simple_agrmt
+84	x	der Bauer ist alt	simple_agrmt
+84	y	der Bauer sind alt	simple_agrmt
+85	x	der Bauer ist jung	simple_agrmt
+85	y	der Bauer sind jung	simple_agrmt
+86	x	der Bauer ist klein	simple_agrmt
+86	y	der Bauer sind klein	simple_agrmt
+87	x	der Bauer ist groß	simple_agrmt
+87	y	der Bauer sind groß	simple_agrmt
+88	x	der Bauer schwimmt	simple_agrmt
+88	y	der Bauer schwimmen	simple_agrmt
+89	x	der Bauer spricht	simple_agrmt
+89	y	der Bauer sprechen	simple_agrmt
+90	x	der Bauer lacht	simple_agrmt
+90	y	der Bauer lachen	simple_agrmt
+91	x	der Chirurg ist alt	simple_agrmt
+91	y	der Chirurg sind alt	simple_agrmt
+92	x	der Chirurg ist jung	simple_agrmt
+92	y	der Chirurg sind jung	simple_agrmt
+93	x	der Chirurg ist klein	simple_agrmt
+93	y	der Chirurg sind klein	simple_agrmt
+94	x	der Chirurg ist groß	simple_agrmt
+94	y	der Chirurg sind groß	simple_agrmt
+95	x	der Chirurg schwimmt	simple_agrmt
+95	y	der Chirurg schwimmen	simple_agrmt
+96	x	der Chirurg spricht	simple_agrmt
+96	y	der Chirurg sprechen	simple_agrmt
+97	x	der Chirurg lacht	simple_agrmt
+97	y	der Chirurg lachen	simple_agrmt
+98	x	der Senator ist alt	simple_agrmt
+98	y	der Senator sind alt	simple_agrmt
+99	x	der Senator ist jung	simple_agrmt
+99	y	der Senator sind jung	simple_agrmt
+100	x	der Senator ist klein	simple_agrmt
+100	y	der Senator sind klein	simple_agrmt
+101	x	der Senator ist groß	simple_agrmt
+101	y	der Senator sind groß	simple_agrmt
+102	x	der Senator schwimmt	simple_agrmt
+102	y	der Senator schwimmen	simple_agrmt
+103	x	der Senator spricht	simple_agrmt
+103	y	der Senator sprechen	simple_agrmt
+104	x	der Senator lacht	simple_agrmt
+104	y	der Senator lachen	simple_agrmt
+105	x	der Lehrer ist alt	simple_agrmt
+105	y	der Lehrer sind alt	simple_agrmt
+106	x	der Lehrer ist jung	simple_agrmt
+106	y	der Lehrer sind jung	simple_agrmt
+107	x	der Lehrer ist klein	simple_agrmt
+107	y	der Lehrer sind klein	simple_agrmt
+108	x	der Lehrer ist groß	simple_agrmt
+108	y	der Lehrer sind groß	simple_agrmt
+109	x	der Lehrer schwimmt	simple_agrmt
+109	y	der Lehrer schwimmen	simple_agrmt
+110	x	der Lehrer spricht	simple_agrmt
+110	y	der Lehrer sprechen	simple_agrmt
+111	x	der Lehrer lacht	simple_agrmt
+111	y	der Lehrer lachen	simple_agrmt
+112	x	der Kunde ist alt	simple_agrmt
+112	y	der Kunde sind alt	simple_agrmt
+113	x	der Kunde ist jung	simple_agrmt
+113	y	der Kunde sind jung	simple_agrmt
+114	x	der Kunde ist klein	simple_agrmt
+114	y	der Kunde sind klein	simple_agrmt
+115	x	der Kunde ist groß	simple_agrmt
+115	y	der Kunde sind groß	simple_agrmt
+116	x	der Kunde schwimmt	simple_agrmt
+116	y	der Kunde schwimmen	simple_agrmt
+117	x	der Kunde spricht	simple_agrmt
+117	y	der Kunde sprechen	simple_agrmt
+118	x	der Kunde lacht	simple_agrmt
+118	y	der Kunde lachen	simple_agrmt
+119	x	der Polizist ist alt	simple_agrmt
+119	y	der Polizist sind alt	simple_agrmt
+120	x	der Polizist ist jung	simple_agrmt
+120	y	der Polizist sind jung	simple_agrmt
+121	x	der Polizist ist klein	simple_agrmt
+121	y	der Polizist sind klein	simple_agrmt
+122	x	der Polizist ist groß	simple_agrmt
+122	y	der Polizist sind groß	simple_agrmt
+123	x	der Polizist schwimmt	simple_agrmt
+123	y	der Polizist schwimmen	simple_agrmt
+124	x	der Polizist spricht	simple_agrmt
+124	y	der Polizist sprechen	simple_agrmt
+125	x	der Polizist lacht	simple_agrmt
+125	y	der Polizist lachen	simple_agrmt
+126	x	der Pilot ist alt	simple_agrmt
+126	y	der Pilot sind alt	simple_agrmt
+127	x	der Pilot ist jung	simple_agrmt
+127	y	der Pilot sind jung	simple_agrmt
+128	x	der Pilot ist klein	simple_agrmt
+128	y	der Pilot sind klein	simple_agrmt
+129	x	der Pilot ist groß	simple_agrmt
+129	y	der Pilot sind groß	simple_agrmt
+130	x	der Pilot schwimmt	simple_agrmt
+130	y	der Pilot schwimmen	simple_agrmt
+131	x	der Pilot spricht	simple_agrmt
+131	y	der Pilot sprechen	simple_agrmt
+132	x	der Pilot lacht	simple_agrmt
+132	y	der Pilot lachen	simple_agrmt
+133	x	der Berater ist alt	simple_agrmt
+133	y	der Berater sind alt	simple_agrmt
+134	x	der Berater ist jung	simple_agrmt
+134	y	der Berater sind jung	simple_agrmt
+135	x	der Berater ist klein	simple_agrmt
+135	y	der Berater sind klein	simple_agrmt
+136	x	der Berater ist groß	simple_agrmt
+136	y	der Berater sind groß	simple_agrmt
+137	x	der Berater schwimmt	simple_agrmt
+137	y	der Berater schwimmen	simple_agrmt
+138	x	der Berater spricht	simple_agrmt
+138	y	der Berater sprechen	simple_agrmt
+139	x	der Berater lacht	simple_agrmt
+139	y	der Berater lachen	simple_agrmt
