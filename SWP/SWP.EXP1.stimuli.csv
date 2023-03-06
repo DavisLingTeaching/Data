@@ -1,0 +1,129 @@
+condition,structure,distance,item,sent
+ADJ.isl.em,island,embedded,ADJ.isl.em.1.a,What do you frown if you forget at the office?
+ADJ.isl.em,island,embedded,ADJ.isl.em.2.a,What do you laugh if you buy at the auction?
+ADJ.isl.em,island,embedded,ADJ.isl.em.3.a,What do you worry if you leave in the car? 
+ADJ.isl.em,island,embedded,ADJ.isl.em.4.a,What do you blush if you submit to the art contest?
+ADJ.isl.em,island,embedded,ADJ.isl.em.5.a,What do you sneeze if you leave open at night?
+ADJ.isl.em,island,embedded,ADJ.isl.em.6.a,What do you notice if you turn on at night?
+ADJ.isl.em,island,embedded,ADJ.isl.em.7.a,What do you object if you write on the blackboard?
+ADJ.isl.em,island,embedded,ADJ.isl.em.8.a,What do you complain if you keep in your office?
+ADJ.isl.ma,island,matrix,ADJ.isl.ma.1.a,Who frowns if you forget a briefcase at the office?
+ADJ.isl.ma,island,matrix,ADJ.isl.ma.2.a,Who laughs if you buy a painting at the auction?
+ADJ.isl.ma,island,matrix,ADJ.isl.ma.3.a,Who worries if you leave the keys in the car?
+ADJ.isl.ma,island,matrix,ADJ.isl.ma.4.a,Who blushes if you submit a drawing to the art contest?
+ADJ.isl.ma,island,matrix,ADJ.isl.ma.5.a,Who sneezes if you leave a window open at night?
+ADJ.isl.ma,island,matrix,ADJ.isl.ma.6.a,Who notices if you turn the air conditioning on at night?
+ADJ.isl.ma,island,matrix,ADJ.isl.ma.7.a,Who objects if you write the equation on the blackboard?
+ADJ.isl.ma,island,matrix,ADJ.isl.ma.8.a,Who complains if you keep the copy paper in your office?
+ADJ.non.em,non,embedded,ADJ.non.em.1.a,What do you think that you forgot at the office?
+ADJ.non.em,non,embedded,ADJ.non.em.2.a,What do you wish that you bought at the auction?
+ADJ.non.em,non,embedded,ADJ.non.em.3.a,What do you suspect that you left in the car?
+ADJ.non.em,non,embedded,ADJ.non.em.4.a,What do you think that you will submit to the art contest?
+ADJ.non.em,non,embedded,ADJ.non.em.5.a,What do you hope that I will leave open at night?
+ADJ.non.em,non,embedded,ADJ.non.em.6.a,What do you complain that I turn on at night?
+ADJ.non.em,non,embedded,ADJ.non.em.7.a,What do you claim that you wrote on the blackboard?
+ADJ.non.em,non,embedded,ADJ.non.em.8.a,What do you propose that you keep in your office?
+ADJ.non.ma,non,matrix,ADJ.non.ma.1.a,Who thinks that you forgot a briefcase at the office?
+ADJ.non.ma,non,matrix,ADJ.non.ma.2.a,Who wishes that you bought a painting at the auction?
+ADJ.non.ma,non,matrix,ADJ.non.ma.3.a,Who suspects that you left the keys in the car?
+ADJ.non.ma,non,matrix,ADJ.non.ma.4.a,Who thinks that you will submit a drawing to the art contest?
+ADJ.non.ma,non,matrix,ADJ.non.ma.5.a,Who hopes that you will leave a window open at night?
+ADJ.non.ma,non,matrix,ADJ.non.ma.6.a,Who complains that you turn on the air conditioning at night?
+ADJ.non.ma,non,matrix,ADJ.non.ma.7.a,Who claims that you wrote the equation on the blackboard?
+ADJ.non.ma,non,matrix,ADJ.non.ma.8.a,Who proposes that you keep the copy paper in your office?
+NP.d.isl.em,island,embedded,NP.d.isl.em.1.a,What did you make the suggestion that I play?
+NP.d.isl.em,island,embedded,NP.d.isl.em.2.a,What did you doubt the prediction that you would finish?
+NP.d.isl.em,island,embedded,NP.d.isl.em.3.a,What did you hear the rumor that you won?
+NP.d.isl.em,island,embedded,NP.d.isl.em.4.a,What did you deny the fact that you could afford?
+NP.d.isl.em,island,embedded,NP.d.isl.em.5.a,What did you verify the statement that you owned?
+NP.d.isl.em,island,embedded,NP.d.isl.em.6.a,What did you make the claim that you saw?
+NP.d.isl.em,island,embedded,NP.d.isl.em.7.a,What did you doubt the possibility that you could find?
+NP.d.isl.em,island,embedded,NP.d.isl.em.8.a,What did you hear the rumor that I sold?
+NP.d.isl.ma,island,matrix,NP.d.isl.ma.1.a,Who made the suggestion that you play golf?
+NP.d.isl.ma,island,matrix,NP.d.isl.ma.2.a,Who doubted the prediction that you would finish your homework?
+NP.d.isl.ma,island,matrix,NP.d.isl.ma.3.a,Who heard the rumor that you won the the award?
+NP.d.isl.ma,island,matrix,NP.d.isl.ma.4.a,Who denied the fact that you could afford the house?
+NP.d.isl.ma,island,matrix,NP.d.isl.ma.5.a,Who verified the statement that you owned the car?
+NP.d.isl.ma,island,matrix,NP.d.isl.ma.6.a,Who made the claim that you saw the bear?
+NP.d.isl.ma,island,matrix,NP.d.isl.ma.7.a,Who doubted the possibility that you could find the clue?
+NP.d.isl.ma,island,matrix,NP.d.isl.ma.8.a,Who heard the rumor that I sold my house?
+NP.d.non.em,non,embedded,NP.d.non.em.1.a,What did you suggest that I play?
+NP.d.non.em,non,embedded,NP.d.non.em.2.a,What did you predict that you would finish?
+NP.d.non.em,non,embedded,NP.d.non.em.3.a,What did you hear that you won?
+NP.d.non.em,non,embedded,NP.d.non.em.4.a,What did you deny that you could afford?
+NP.d.non.em,non,embedded,NP.d.non.em.5.a,What did you state that you owned?
+NP.d.non.em,non,embedded,NP.d.non.em.6.a,What did you claim that you saw?
+NP.d.non.em,non,embedded,NP.d.non.em.7.a,What did you doubt that you could find?
+NP.d.non.em,non,embedded,NP.d.non.em.8.a,What did you hear that I sold?
+NP.d.non.ma,non,matrix,NP.d.non.ma.1.a,Who suggested that you play golf?
+NP.d.non.ma,non,matrix,NP.d.non.ma.2.a,Who predicted that you would finish your homework?
+NP.d.non.ma,non,matrix,NP.d.non.ma.3.a,Who heard that you won the award? 
+NP.d.non.ma,non,matrix,NP.d.non.ma.4.a,Who denied that you could afford the house?
+NP.d.non.ma,non,matrix,NP.d.non.ma.5.a,Who stated that you owned the car?
+NP.d.non.ma,non,matrix,NP.d.non.ma.6.a,Who claimed that you saw the bear?
+NP.d.non.ma,non,matrix,NP.d.non.ma.7.a,Who doubted that you could find the clue?
+NP.d.non.ma,non,matrix,NP.d.non.ma.8.a,Who heard that I sold my house?
+SUB.d.comp.sub,island,embedded,SUB.d.comp.sub.1.a,Who do you think the gift from prompted the hearing about congressional ethics? 
+SUB.d.comp.sub,island,embedded,SUB.d.comp.sub.2.a,Who do you think the speech by interrupted the TV show about whales?
+SUB.d.comp.sub,island,embedded,SUB.d.comp.sub.3.a,Who do you think the meeting with delayed the fundraiser for the candidate?
+SUB.d.comp.sub,island,embedded,SUB.d.comp.sub.4.a,Who do you think the documentary by preceded the movie about gangsters?
+SUB.d.comp.sub,island,embedded,SUB.d.comp.sub.5.a,Who do you think the email from criticized the joke about religion?
+SUB.d.comp.sub,island,embedded,SUB.d.comp.sub.6.a,Who do you think the picture of accompanied the invitation to the wedding?
+SUB.d.comp.sub,island,embedded,SUB.d.comp.sub.7.a,Who do you think the flyer from promoted the play about the Great Depression?
+SUB.d.comp.sub,island,embedded,SUB.d.comp.sub.8.a,Who do you think the verdict from started the debate about civil rights?
+SUB.d.comp.obj,island,matrix,SUB.d.comp.obj.1.a,What do you think the gift from the lobbyist prompted the hearing about?  
+SUB.d.comp.obj,island,matrix,SUB.d.comp.obj.2.a,What do you think the speech by the president interrupted the TV show about?
+SUB.d.comp.obj,island,matrix,SUB.d.comp.obj.3.a,What do you think the meeting with the millionaire delayed the fundraiser for?
+SUB.d.comp.obj,island,matrix,SUB.d.comp.obj.4.a,What do you think the documentary by the famous historian preceded the movie about?
+SUB.d.comp.obj,island,matrix,SUB.d.comp.obj.5.a,What do you think the email from the priest criticized the joke about?
+SUB.d.comp.obj,island,matrix,SUB.d.comp.obj.6.a,What do you think the picture of the bride accompanied the invitation to?
+SUB.d.comp.obj,island,matrix,SUB.d.comp.obj.7.a,What do you think the flyer from the actress promoted the play about?
+SUB.d.comp.obj,island,matrix,SUB.d.comp.obj.8.a,What do you think the verdict from the judge started the debate about?
+SUB.d.simp.sub,non,embedded,SUB.d.simp.sub.1.a,What do you think prompted the hearing?
+SUB.d.simp.sub,non,embedded,SUB.d.simp.sub.2.a,What do you think interrupted the TV show?
+SUB.d.simp.sub,non,embedded,SUB.d.simp.sub.3.a,What do you think delayed the fundraiser?
+SUB.d.simp.sub,non,embedded,SUB.d.simp.sub.4.a,What do you think preceded the movie?
+SUB.d.simp.sub,non,embedded,SUB.d.simp.sub.5.a,What do you think criticized the joke?
+SUB.d.simp.sub,non,embedded,SUB.d.simp.sub.6.a,What do you think accompanied the invitation?
+SUB.d.simp.sub,non,embedded,SUB.d.simp.sub.7.a,What do you think promoted the play?
+SUB.d.simp.sub,non,embedded,SUB.d.simp.sub.8.a,What do you think started the debate?
+SUB.d.simp.obj,non,matrix,SUB.d.simp.obj.1.a,What do you think the gift prompted?
+SUB.d.simp.obj,non,matrix,SUB.d.simp.obj.2.a,What do you think the speech interrupted?
+SUB.d.simp.obj,non,matrix,SUB.d.simp.obj.3.a,What do you think the meeting delayed?
+SUB.d.simp.obj,non,matrix,SUB.d.simp.obj.4.a,What do you think the documentary preceded?
+SUB.d.simp.obj,non,matrix,SUB.d.simp.obj.5.a,What do you think the email criticized?
+SUB.d.simp.obj,non,matrix,SUB.d.simp.obj.6.a,What do you think the picture accompanied?
+SUB.d.simp.obj,non,matrix,SUB.d.simp.obj.7.a,What do you think the flyer promoted?
+SUB.d.simp.obj,non,matrix,SUB.d.simp.obj.8.a,What do you think the verdict started?
+WH.d.isl.em,island,embedded,WH.d.isl.em.1.a,What do you wonder whether you like?
+WH.d.isl.em,island,embedded,WH.d.isl.em.2.a,What do you wonder whether you wrote?
+WH.d.isl.em,island,embedded,WH.d.isl.em.3.a,What do you wonder whether you bought?
+WH.d.isl.em,island,embedded,WH.d.isl.em.4.a,What do you wonder whether you ate?
+WH.d.isl.em,island,embedded,WH.d.isl.em.5.a,What do you wonder whether you read?
+WH.d.isl.em,island,embedded,WH.d.isl.em.6.a,What do you wonder whether you saw?
+WH.d.isl.em,island,embedded,WH.d.isl.em.7.a,What do you wonder whether you started?
+WH.d.isl.em,island,embedded,WH.d.isl.em.8.a,What do you wonder whether you baked?
+WH.d.isl.ma,island,matrix,WH.d.isl.ma.1.a,Who wonders whether you like hockey?
+WH.d.isl.ma,island,matrix,WH.d.isl.ma.2.a,Who wonders whether you wrote the letter?
+WH.d.isl.ma,island,matrix,WH.d.isl.ma.3.a,Who wonders whether you bought the house?
+WH.d.isl.ma,island,matrix,WH.d.isl.ma.4.a,Who wonders whether you ate the salad?
+WH.d.isl.ma,island,matrix,WH.d.isl.ma.5.a,Who wonders whether you read the book?
+WH.d.isl.ma,island,matrix,WH.d.isl.ma.6.a,Who wonders whether you saw the movie?
+WH.d.isl.ma,island,matrix,WH.d.isl.ma.7.a,Who wonders whether you started the rumor?
+WH.d.isl.ma,island,matrix,WH.d.isl.ma.8.a,Who wonders whether you baked the cake?
+WH.d.non.em,non,embedded,WH.d.non.em.1.a,What do you think that you like?
+WH.d.non.em,non,embedded,WH.d.non.em.2.a,What do you think that you wrote?
+WH.d.non.em,non,embedded,WH.d.non.em.3.a,What do you think that you bought?
+WH.d.non.em,non,embedded,WH.d.non.em.4.a,What do you think that you ate?
+WH.d.non.em,non,embedded,WH.d.non.em.5.a,What do you think that you read?
+WH.d.non.em,non,embedded,WH.d.non.em.6.a,What do you think that you saw?
+WH.d.non.em,non,embedded,WH.d.non.em.7.a,What do you think that you started?
+WH.d.non.em,non,embedded,WH.d.non.em.8.a,What do you think that you baked?
+WH.d.non.ma,non,matrix,WH.d.non.ma.1.a,Who thinks that you like hockey?
+WH.d.non.ma,non,matrix,WH.d.non.ma.2.a,Who thinks that you wrote the letter?
+WH.d.non.ma,non,matrix,WH.d.non.ma.3.a,Who thinks that you bought the house?
+WH.d.non.ma,non,matrix,WH.d.non.ma.4.a,Who thinks that you ate the salad?
+WH.d.non.ma,non,matrix,WH.d.non.ma.5.a,Who thinks that you read the book?
+WH.d.non.ma,non,matrix,WH.d.non.ma.6.a,Who thinks that you saw the movie?
+WH.d.non.ma,non,matrix,WH.d.non.ma.7.a,Who thinks that you started the rumor?
+WH.d.non.ma,non,matrix,WH.d.non.ma.8.a,Who thinks that you baked the cake?
